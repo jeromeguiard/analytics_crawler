@@ -1,0 +1,2 @@
+After create a service account generate the certif
+openssl pkcs12 -in google_key.p12 -out certif.pem -nocerts -nodes
